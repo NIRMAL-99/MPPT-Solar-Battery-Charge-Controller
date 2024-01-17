@@ -22,4 +22,3 @@ This charger controller includes the Maximum Power Point Tracking (MPPT) method 
 
 ## Testing Prototype
 https://github.com/NIRMAL-99/MPPT-Solar-Battery-Charge-Controller/assets/91071116/1d29f216-f56a-41f2-bfa6-f52e2c575858
-<iframe width="400" height="300" src="https://github.com/NIRMAL-99/MPPT-Solar-Battery-Charge-Controller/assets/91071116/1d29f216-f56a-41f2-bfa6-f52e2c575858" frameborder="0" allowfullscreen></iframe>
